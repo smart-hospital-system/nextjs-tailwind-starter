@@ -24,7 +24,7 @@ export default function Home() {
           <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">
             Getting Started
           </h3>
-          <ol className="text-left space-y-3 text-gray-700 dark:text-gray-300">
+          <ol className="text-start space-y-3 text-gray-700 dark:text-gray-300">
             <li className="flex items-start gap-3">
               <span className="flex-shrink-0 w-6 h-6 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full flex items-center justify-center text-sm font-medium">
                 1
